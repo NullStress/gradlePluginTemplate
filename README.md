@@ -1,0 +1,2 @@
+gradlePluginTemplate
+====================
